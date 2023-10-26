@@ -5,3 +5,5 @@ for /d %%D in (*) do (
     git pull --all
     popd
 )
+
+pause
